@@ -12,5 +12,5 @@ import imutils <br>
 import time <br>
 import cv2 <br>
 
-#QUIT LOOP
+# QUIT LOOP
 press `q` key in order to quit
